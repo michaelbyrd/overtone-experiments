@@ -1,0 +1,8 @@
+Startup
+  lein repl
+  (use 'overtone.live)
+
+Connect your vim to the repl
+  :Connect nrepl://127.0.0.1:63749
+
+
